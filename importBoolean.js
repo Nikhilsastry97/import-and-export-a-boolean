@@ -1,0 +1,1 @@
+const canWriteCode = require("./exportBoolean");
